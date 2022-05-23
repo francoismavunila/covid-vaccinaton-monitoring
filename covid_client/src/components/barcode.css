@@ -1,0 +1,14 @@
+
+table, th, td {
+  border:1px solid black;
+}
+#covidCard{
+    background-color: bisque;
+    display: flex;
+    margin-left: 5%;
+    width: 90%;
+}
+#covidCard div{
+    width: 50%;
+    border: 1px solid black;
+}
